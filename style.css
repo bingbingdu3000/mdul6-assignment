@@ -56,7 +56,7 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  background: url("/Flower Asset/797dd3a35e422e9e01666cf762eaafc9.jpg") no-repeat center center;
+  background: url("./Flower Asset/797dd3a35e422e9e01666cf762eaafc9.jpg") no-repeat center center;
   background-size: 100%;
   width: 100%;
   height: 80vh;
@@ -258,7 +258,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: url("/Flower Asset/Rectangle 9.png") no-repeat center center;
+    background: url("./Flower Asset/Rectangle 9.png") no-repeat center center;
     background-size: 100%;
     width: 80%;
     height: 100vh;
